@@ -1,7 +1,7 @@
 # Budget-Tracker
 [![Generic Badge](https://img.shields.io/badge/License-MIT-green.svg)](https://shields.io)
 
-This is an online/offline budget tracking progressive web application. It allows the user to track their finances with or without an internet connection.
+This is an online/offline budget tracking progressive web application. It allows the user to track their finances with or without an internet connection. You can try the application [here](https://secret-castle-17831.herokuapp.com/)
 
 ## User Story
 
